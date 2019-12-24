@@ -2,5 +2,5 @@ ng build --prod --output-path docs --base-href Sheary
 cd docs
 mv index.html 404.html
 cd ..
-git add docs
+git add *
 git commit -m "update github page `date +%Y%m%d%H%M%S`"

@@ -21,7 +21,7 @@ export class MainPageComponent implements OnInit {
 
 As an immigrant, I spent my first 2 years in the U.S. at **Mark Keppel High School**.  
 Then I went to **Pasadena City College** and had wonderful three years there.  
-With GPA 3.95/4, I transfered to **UCLA** for **my bachelor degree(GPA 3.54/4.0)** and **master degree(GPA 4.0/4.0)** .  
+With **GPA 3.95/4**, I transfered to **UCLA** for **my bachelor degree(GPA 3.54/4.0)** and **master degree(GPA 4.0/4.0)** .  
 
 ### Work Experience
 
