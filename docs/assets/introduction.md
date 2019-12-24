@@ -1,21 +1,4 @@
-import { Component, OnInit } from '@angular/core';
-
-
-@Component({
-	selector: 'app-main-page',
-	templateUrl: './main-page.component.html',
-	styleUrls: ['./main-page.component.css']
-})
-
-export class MainPageComponent implements OnInit {
-	
-	name: string = "Shen Teng";
-	constructor() {
-	}
-	ngOnInit() {
-	}
-	introduction: string = 
-`## About Me
+## About Me
 
 ### Education
 
@@ -37,5 +20,4 @@ Traditional Graph processing frameworks like GraphX, Pregel lack support for ten
 
 For this project, I am working with  the PhD student [John Thorpe](http://web.cs.ucla.edu/~jothor/). My Advisor is  [Harry Xu](http://web.cs.ucla.edu/~harryxu/). 
 
-`;
-}
+### 
