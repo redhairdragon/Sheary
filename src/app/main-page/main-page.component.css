@@ -1,0 +1,25 @@
+nav ul{
+	list-style-type: none;
+    padding-left:0;
+
+}
+nav ul li{
+	float:right;
+}
+#page-title{
+	float:left;
+}
+#personal-info{
+	width: 25%;
+	max-width: 15em;
+}
+#personal-info>*{
+	max-width:100%;
+}
+#personal-info a{
+	word-wrap: break-word;
+	display: block;
+}
+#avatar{
+	max-height:60%;
+}
