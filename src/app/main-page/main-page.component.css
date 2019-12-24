@@ -1,20 +1,11 @@
-nav ul{
-	list-style-type: none;
-    padding-left:0;
-
-}
-nav ul li{
-	float:right;
-}
-#page-title{
-	float:left;
-}
 #personal-info{
-	width: 25%;
+	/*flex-grow: 1;*/
+	width: 33%;
 	max-width: 15em;
 }
 #personal-info>*{
-	max-width:100%;
+	/*float:left;*/
+	max-width:90%;
 }
 #personal-info a{
 	word-wrap: break-word;
@@ -22,4 +13,8 @@ nav ul li{
 }
 #avatar{
 	max-height:60%;
+}
+
+div app-markdown-text{
+	/*flex-grow: 3;*/
 }

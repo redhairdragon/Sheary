@@ -1,0 +1,22 @@
+#page-title{
+	float:left;
+}
+nav{
+	height: 20px;
+	display: block;
+}
+nav ul{
+	list-style-type: none;
+    padding-left:0;
+}
+nav ul li{
+	float:right;
+}
+
+app-main-page{
+	display:flex;
+	flex-direction: row;
+	margin-top: 20px;
+	justify-content: space-between;
+	align-items: flex-start;
+}
